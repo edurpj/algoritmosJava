@@ -1,0 +1,15 @@
+package estruturadados.vetor.teste;
+
+import estruturadados.vetor.vetorObjetos;
+
+public class Aula10 {
+
+	public static void main(String[] args) {
+
+		vetorObjetos vetor = new vetorObjetos(3);
+		
+		vetor.adiciona(3);
+
+	}
+
+}
